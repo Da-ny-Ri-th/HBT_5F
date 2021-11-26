@@ -1,0 +1,75 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = 5F_Staff Facilities
+
+## Skin
+
+### Button
+Button_62108AD7_73F3_09EB_41DC_DE1CEC171FA6.label = Mini Map
+Button_62CBAF48_73ED_08E4_41DA_8ACEB38B6529.label = Contact Us
+
+### Label
+Label_67C0ED9F_73FF_0B9B_41D8_30A7116528C9.text = HATTHA BANK PROJECT, 5F_STAFF FACILITIES
+
+## Media
+
+### Title
+map_58FFCDC0_5608_0136_41BE_C7009AF710CE.label = 3.18 OFFICE TOWER-5F-FLOOR PLAN
+panorama_550F44E4_5A63_CD9D_41CF_42C78817451B.label = Nursery View_5
+panorama_5A506641_5572_86A3_41A2_EEBE32FAE5D3.label = Outdoor View_22
+panorama_5A56A3C2_5142_AACF_41D0_0402E1E87F4E.label = Food Court View_1
+panorama_5A5F6C45_5572_8AA3_41CC_124DA604F0F8.label = Outdoor View_21
+panorama_5A8E2F2F_5572_86FF_41D2_4A38322A4F1E.label = Outdoor View_20
+panorama_5A9799BE_5608_0148_41CF_6FBBD542D257.label = Nursery View_4
+panorama_5B545A2F_5515_8EE2_41D1_4B1423E22173.label = Nursery View_1
+panorama_5BFA0A7C_515E_65BA_41CC_7BC415F64149.label = Outdoor View_19
+panorama_5BFA0AD2_515E_BACE_41B6_6E0E31EAC95B.label = Outdoor View_16
+panorama_5BFA6599_515E_AF7A_41CF_74C53C4B2A6E.label = Outdoor View_17
+panorama_5BFA6E78_515E_5DBB_4189_63C76A766728.label = Outdoor View_8
+panorama_5BFAA1A2_515E_A74E_41CD_0E73970C0F9F.label = Outdoor View_10
+panorama_5BFAB162_515E_A7CE_41C8_1240BD024CDD.label = Outdoor View_15
+panorama_5BFABB58_515E_DBFB_41B7_D2C5E032F529.label = Outdoor View_11
+panorama_5BFAC3B0_515E_EB4A_418E_40832D6BAEFD.label = Outdoor View_12
+panorama_5BFAC5E7_515E_EED6_41D2_D565F80886A1.label = Outdoor View_14
+panorama_5BFAFCAD_515E_FD55_41D3_837B2D74EE90.label = Outdoor View_13
+panorama_5BFBD43F_515E_6DB6_41CF_E911F476F3EF.label = VIP Room View
+panorama_5BFBDF13_515E_5B4D_41CD_C0F65843E847.label = Outdoor View_18
+panorama_5BFD23D6_5141_AAF6_41CE_F69BFEADAE5B.label = Food Court View_15
+panorama_5BFD35F0_5141_AECB_41BC_F85534900490.label = Food Court View_17
+panorama_5BFD5D5A_5141_BFFE_41CD_7BE2E693C2A4.label = Food Court View_16
+panorama_5BFD77EE_5141_EAD7_41CC_20BB226B5EF0.label = Nursery View_2
+panorama_5BFD78A5_515E_A555_41D1_A6F5086C5C4C.label = Outdoor View_9
+panorama_5BFD88D2_5141_A6CE_41AE_D2CA4F9511EC.label = Outdoor View_4
+panorama_5BFD9C45_515E_7DCA_41CB_D7148C9A56CD.label = Outdoor View_6
+panorama_5BFDB2F7_5141_EAB5_41B1_90D8CF15C425.label = Nursery View_3
+panorama_5BFDB55E_515E_6FF6_41D3_C119AB81381B.label = Outdoor View_7
+panorama_5BFDBC4B_5141_DDDE_41C7_A9EAA37B9EDE.label = Outdoor View_1
+panorama_5BFDCFEA_5141_BADE_41BC_167FACC36CD9.label = Outdoor View_3
+panorama_5BFDE1C8_515E_66DA_41AB_70546FA102F2.label = Outdoor View_5
+panorama_5BFDF539_5141_AFBA_41C8_39CA2A494EAA.label = Outdoor View_2
+panorama_5BFE8BCA_5142_BADE_41D3_E1E2D0613FC8.label = Food Court View_2
+panorama_5BFE9246_5142_E5D7_41C2_AE4F9B9459BE.label = Food Court View_6
+panorama_5BFEB928_5142_675A_41BE_589B2559472B.label = Food Court View_12
+panorama_5BFEBB8A_5142_5B5E_41C5_8A83E1DA780F.label = Food Court View_14
+panorama_5BFECFE0_5142_BACB_41C9_9E1037464211.label = Food Court View_9
+panorama_5BFEE051_5142_65CA_41C3_FB2BB1101370.label = Food Court View_11
+panorama_5BFEF2A5_5142_654A_41BB_D0C161950492.label = Food Court View_13
+panorama_5BFEF5C1_5142_AECA_41B0_5AFD824BB66A.label = Food Court View_8
+panorama_5BFEF79A_5142_AB7E_41D1_10FB8992EB59.label = Food Court View_10
+panorama_5BFF35B0_5142_AF4A_4193_4AC0305D2826.label = Food Court View_3
+panorama_5BFF68A0_5142_E54A_41D3_1036CDA6CCCB.label = Food Court View_5
+panorama_5BFF6CB2_5142_DD4E_41BC_7815B64EB19B.label = Food Court View_7
+panorama_5BFF7EDE_5142_DAF6_41A5_17B21ACFA8A4.label = Food Court View_4
+panorama_5CFC9E16_5608_0358_41AB_A2623F1AC273.label = Nursery View_6
+
+## Action
+
+### URL
+LinkBehaviour_660B2F2D_76FC_9531_41D0_36A109E662AC.source = https://www.cmedcc.com/
+LinkBehaviour_662CD49A_76F4_EB1C_41CF_3C78D7DD2E72.source = https://www.google.com/maps/place/CMED+Construction+Company/@11.5450478,104.9248668,15z/data=!4m5!3m4!1s0x0:0x7e215fce7b5af38c!8m2!3d11.5450478!4d104.9248668
+LinkBehaviour_67804E93_76FD_9711_41B4_8678E37FE9D1.source = https://www.linkedin.com/company/cmedcc
